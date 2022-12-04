@@ -1,0 +1,8 @@
+{
+  "name": "advent-of-code-2022-js",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wesbragagt <wesbragagt@gmail.com>",
+  "license": "MIT"
+}
